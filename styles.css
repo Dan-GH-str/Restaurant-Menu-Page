@@ -165,7 +165,7 @@ body, html {
 
 @media(max-width: 768px) {
     .btns-container {
-        padding: 0 12em;
+        padding: 0 2em;
     }
 
     .filter-btn {
@@ -252,7 +252,7 @@ body, html {
     }
 
     .btns-container {
-        padding: 0 10em;
+        padding: 0 2em;
     }
 
     .filter-btn {
@@ -288,10 +288,6 @@ body, html {
 
     .menu-title h2 {
         font-size: 22px;
-    }
-
-    .btns-container {
-        padding: 0 10em;
     }
 
     .filter-btn {
